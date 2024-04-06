@@ -1,0 +1,13 @@
+{
+  "name": "CreateVRCCalenderUrl",
+  "packageManager": "yarn@4.0.2",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.4"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  }
+}
